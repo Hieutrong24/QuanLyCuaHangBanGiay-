@@ -1,0 +1,412 @@
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.AssemblyReference.cache
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.BanHangCuaNhanVien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.CardGiay.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.DangKyKH.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FormBanHang.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmBaoCaoNhanSu.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmCapNhatNhomQuyen.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmChiTietNhanVien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmDangNhap.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmDanhSachNhanVien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmQuanLyHeThong.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmQuanLySanPham.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmThemNhanVien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmTheNhanVien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmTinhLuong.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmUngLuong.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.GiaoDien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.Properties.Resources.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.QuanLyHoaDon.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.ThemSanPham.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.GenerateResource.cache
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.HoaDon.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.ThongKe.resources
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe.config
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Azure.Core.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Azure.Identity.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\BouncyCastle.Crypto.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\BUS_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\itextsharp.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Krypton.Toolkit.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.Options.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\QRCoder.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\SunnyUI.Common.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\SunnyUI.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Buffers.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.ClientModel.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Memory.Data.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Memory.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Numerics.Vectors.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Security.AccessControl.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Security.Principal.Windows.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Text.Encodings.Web.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Text.Json.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.ValueTuple.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\zxing.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\zxing.presentation.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Snowflake.Net.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\BUS_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Azure.Core.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Azure.Identity.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\itextsharp.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Krypton.Toolkit.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.Options.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\QRCoder.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Buffers.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.ClientModel.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Memory.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Memory.Data.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Numerics.Vectors.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Security.AccessControl.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Security.Principal.Windows.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Text.Encodings.Web.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Text.Json.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\System.ValueTuple.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\zxing.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\zxing.presentation.xml
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.Up2Date
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe.config
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.AssemblyReference.cache
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.Add.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.BanHangCuaNhanVien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.CardGiay.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.CategoryCard.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.DangKyKH.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.FormBanHang.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmBaoCaoNhanSu.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmCapNhatNhomQuyen.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmChiTietNhanVien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmDangNhap.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmDanhSachNhanVien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmQuanLyHeThong.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmQuanLySanPham.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmThemNhanVien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmTheNhanVien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmTinhLuong.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmUngLuong.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.GiaoDien.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.HoaDon.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.Properties.Resources.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.QLYKho.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.QuanLyHoaDon.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.ThemSanPham.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.ThongKe.resources
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.GenerateResource.cache
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\QL_BanGiay.exe.config
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\QL_BanGiay.exe
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Azure.Core.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Azure.Identity.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\BouncyCastle.Crypto.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\BUS_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Guna.UI2.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\itextsharp.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Krypton.Toolkit.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Options.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\QRCoder.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\SunnyUI.Common.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\SunnyUI.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Buffers.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.ClientModel.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Memory.Data.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Memory.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Numerics.Vectors.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.AccessControl.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.Principal.Windows.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Text.Encodings.Web.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Text.Json.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.ValueTuple.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zxing.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zxing.presentation.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Snowflake.Net.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\BUS_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Azure.Core.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Azure.Identity.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\itextsharp.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Krypton.Toolkit.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Options.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\QRCoder.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Buffers.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.ClientModel.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Memory.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Memory.Data.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Numerics.Vectors.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.AccessControl.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.Principal.Windows.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Text.Encodings.Web.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Text.Json.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.ValueTuple.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zxing.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zxing.presentation.xml
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.Up2Date
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.exe
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.AssemblyReference.cache
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.exe.config
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.Add.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.BanHangCuaNhanVien.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.CardGiay.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.CategoryCard.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.DangKyKH.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.FormBanHang.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmBaoCaoNhanSu.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmCapNhatNhomQuyen.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmChiTietNhanVien.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmDangNhap.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmDanhSachNhanVien.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmQuanLyHeThong.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmQuanLySanPham.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmThemNhanVien.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmTheNhanVien.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmTinhLuong.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.frmUngLuong.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.GiaoDien.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.HoaDon.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.Properties.Resources.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.QLYKho.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.QuanLyHoaDon.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.ThemSanPham.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.ThongKe.resources
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.GenerateResource.cache
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.CoreCompileInputs.cache
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.exe
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\QL_BanGiay.exe.config
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\QL_BanGiay.exe
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Azure.Core.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Azure.Identity.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\BouncyCastle.Crypto.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\BUS_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Guna.UI2.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\itextsharp.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Krypton.Toolkit.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Options.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\QRCoder.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\SunnyUI.Common.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\SunnyUI.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Buffers.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.ClientModel.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Memory.Data.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Memory.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Numerics.Vectors.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.AccessControl.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.Principal.Windows.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Text.Encodings.Web.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Text.Json.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.ValueTuple.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zxing.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zxing.presentation.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Snowflake.Net.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\BUS_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Azure.Core.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Azure.Identity.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\itextsharp.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Krypton.Toolkit.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Options.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\QRCoder.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Buffers.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.ClientModel.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Memory.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Memory.Data.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Numerics.Vectors.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.AccessControl.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Security.Principal.Windows.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Text.Encodings.Web.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Text.Json.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\System.ValueTuple.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zxing.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zxing.presentation.xml
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.Up2Date

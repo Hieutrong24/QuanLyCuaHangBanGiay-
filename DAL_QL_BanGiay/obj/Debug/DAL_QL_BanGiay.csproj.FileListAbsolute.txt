@@ -1,0 +1,30 @@
+D:\WorkSpace\WindowForm\QL_BanGiay\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\DAL_QL_BanGiay\bin\Debug\Snowflake.Net.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.AssemblyReference.cache
+D:\WorkSpace\WindowForm\QL_BanGiay\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WindowForm\QL_BanGiay\DAL_QL_BanGiay\obj\Debug\DAL_QL_B.EF0411AD.Up2Date
+D:\WorkSpace\WindowForm\QL_BanGiay\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.AssemblyReference.cache
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\DAL_QL_BanGiay\bin\Debug\Snowflake.Net.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\DAL_QL_BanGiay\obj\Debug\DAL_QL_B.EF0411AD.Up2Date
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QL_BanGiay - Copy\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\DAL_QL_BanGiay\bin\Debug\Snowflake.Net.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.AssemblyReference.cache
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.CoreCompileInputs.cache
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\DAL_QL_BanGiay\obj\Debug\DAL_QL_B.EF0411AD.Up2Date
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QL_BanGiay - Copy\QL_BanGiay - Copy\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.pdb

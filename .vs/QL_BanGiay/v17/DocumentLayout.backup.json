@@ -1,0 +1,637 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\banhangcuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\banhangcuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\banhangcuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\banhangcuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8367D2E9-AA94-4A0C-8763-B7C5348F05E2}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\bus_ql_bangiay\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8367D2E9-AA94-4A0C-8763-B7C5348F05E2}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\dal_ql_bangiay\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\cardgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\cardgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\cardgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\cardgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\dal_ql_bangiay\\giaydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\giaydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\ql_bangiay\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\ql_bangiay\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\ql_bangiay\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\ql_bangiay\\cardgiay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\cardgiay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\ql_bangiay\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\dal_ql_bangiay\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\dto_ql_bangiay\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\dto_ql_bangiay\\cthoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\cthoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\dal_ql_bangiay\\cthoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\cthoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8367D2E9-AA94-4A0C-8763-B7C5348F05E2}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\bus_ql_bangiay\\cthoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8367D2E9-AA94-4A0C-8763-B7C5348F05E2}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\cthoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8367D2E9-AA94-4A0C-8763-B7C5348F05E2}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\bus_ql_bangiay\\giaybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8367D2E9-AA94-4A0C-8763-B7C5348F05E2}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\giaybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|e:\\file\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\ql_bangiay - copy\\ql_bangiay - copy\\dto_ql_bangiay\\giaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\giaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\qlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\qlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\qlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\qlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\frmcapnhatnhomquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmcapnhatnhomquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\frmbaocaonhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmbaocaonhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\dangkykh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\dangkykh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\themsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\themsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\ql_bangiay\\frmquanlyhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmquanlyhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BanHangCuaNhanVien.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\BanHangCuaNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\BanHangCuaNhanVien.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\BanHangCuaNhanVien.cs*",
+              "RelativeToolTip": "QL_BanGiay\\BanHangCuaNhanVien.cs*",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAMwLkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:11:24.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DAL_QL_BanGiay\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\DBConnect.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DAL_QL_BanGiay\\DBConnect.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\DBConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:14:33.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDonBUS.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\BUS_QL_BanGiay\\HoaDonBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\HoaDonBUS.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\BUS_QL_BanGiay\\HoaDonBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\HoaDonBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:15:06.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardGiay.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\CardGiay.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\CardGiay.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\CardGiay.cs [Design]*",
+              "RelativeToolTip": "QL_BanGiay\\CardGiay.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:04:48.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BanHangCuaNhanVien.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\BanHangCuaNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\BanHangCuaNhanVien.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\BanHangCuaNhanVien.cs [Design]*",
+              "RelativeToolTip": "QL_BanGiay\\BanHangCuaNhanVien.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:03:59.23Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\Program.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\Program.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\Program.cs",
+              "RelativeToolTip": "QL_BanGiay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:48:50.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardGiay.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\CardGiay.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\CardGiay.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\CardGiay.cs*",
+              "RelativeToolTip": "QL_BanGiay\\CardGiay.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:16:14.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmDangNhap.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmDangNhap.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmDangNhap.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAewE0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:53:08.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmDangNhap.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:53:06.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormBanHang.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\FormBanHang.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\FormBanHang.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\FormBanHang.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\FormBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:04:15.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GiaoDien.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\GiaoDien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\GiaoDien.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\GiaoDien.cs",
+              "RelativeToolTip": "QL_BanGiay\\GiaoDien.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwHUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T00:17:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CardGiay.Designer.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\CardGiay.Designer.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\CardGiay.Designer.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\CardGiay.Designer.cs*",
+              "RelativeToolTip": "QL_BanGiay\\CardGiay.Designer.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:22:19.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GiaoDien.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\GiaoDien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\GiaoDien.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\GiaoDien.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\GiaoDien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:06:59.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormBanHang.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\FormBanHang.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\FormBanHang.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\FormBanHang.cs",
+              "RelativeToolTip": "QL_BanGiay\\FormBanHang.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:25:39.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuanLyHoaDon.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\QuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\QuanLyHoaDon.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\QuanLyHoaDon.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\QuanLyHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:04:26.319Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GiayDAL.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DAL_QL_BanGiay\\GiayDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\GiayDAL.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DAL_QL_BanGiay\\GiayDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\GiayDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T00:02:13.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuanLyHoaDon.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\QuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\QuanLyHoaDon.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\QuanLyHoaDon.cs",
+              "RelativeToolTip": "QL_BanGiay\\QuanLyHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:23:28.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\HoaDon.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\HoaDon.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\HoaDon.cs",
+              "RelativeToolTip": "QL_BanGiay\\HoaDon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:16:05.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HoaDonDAL.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DAL_QL_BanGiay\\HoaDonDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\HoaDonDAL.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DAL_QL_BanGiay\\HoaDonDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\HoaDonDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:14:41.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HoaDonDTO.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DTO_QL_BanGiay\\HoaDonDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\HoaDonDTO.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DTO_QL_BanGiay\\HoaDonDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\HoaDonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:14:11.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CTHoaDonDTO.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DTO_QL_BanGiay\\CTHoaDonDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\CTHoaDonDTO.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DTO_QL_BanGiay\\CTHoaDonDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\CTHoaDonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:13:49.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CTHoaDonDAL.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DAL_QL_BanGiay\\CTHoaDonDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\CTHoaDonDAL.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DAL_QL_BanGiay\\CTHoaDonDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\CTHoaDonDAL.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwKsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:13:23.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CTHoaDonBUS.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\BUS_QL_BanGiay\\CTHoaDonBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\CTHoaDonBUS.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\BUS_QL_BanGiay\\CTHoaDonBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\CTHoaDonBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:12:53.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GiayBUS.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\BUS_QL_BanGiay\\GiayBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\GiayBUS.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\BUS_QL_BanGiay\\GiayBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\GiayBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:11:20.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\HoaDon.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\HoaDon.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\HoaDon.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:05:30.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GiayDTO.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DTO_QL_BanGiay\\GiayDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\GiayDTO.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\DTO_QL_BanGiay\\GiayDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\GiayDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T04:10:49.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QLYKho.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\QLYKho.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\QLYKho.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\QLYKho.cs",
+              "RelativeToolTip": "QL_BanGiay\\QLYKho.cs",
+              "ViewState": "AgIAADkDAAAAAAAAAAAAAEoDAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T00:15:01.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryCard.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\CategoryCard.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\CategoryCard.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\CategoryCard.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\CategoryCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:04:19.7Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QLYKho.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\QLYKho.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\QLYKho.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\QLYKho.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\QLYKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:59:53.785Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Add.Designer.cs",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\Add.Designer.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\Add.Designer.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\Add.Designer.cs",
+              "RelativeToolTip": "QL_BanGiay\\Add.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:58:03.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmCapNhatNhomQuyen.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmCapNhatNhomQuyen.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmCapNhatNhomQuyen.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmCapNhatNhomQuyen.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\frmCapNhatNhomQuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:05:56.728Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmBaoCaoNhanSu.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmBaoCaoNhanSu.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmBaoCaoNhanSu.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmBaoCaoNhanSu.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\frmBaoCaoNhanSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:06:49.123Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DangKyKH.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\DangKyKH.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\DangKyKH.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\DangKyKH.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\DangKyKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:05:10.146Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Add.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\Add.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\Add.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\Add.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:04:59.696Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmQuanLySanPham.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmQuanLySanPham.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQuanLySanPham.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmQuanLySanPham.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\frmQuanLySanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:04:35.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ThemSanPham.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\ThemSanPham.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ThemSanPham.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\ThemSanPham.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\ThemSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:04:28.941Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmQuanLyHeThong.cs [Design]",
+              "DocumentMoniker": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmQuanLyHeThong.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQuanLyHeThong.cs",
+              "ToolTip": "E:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QL_BanGiay - Copy\\QL_BanGiay - Copy\\QL_BanGiay\\frmQuanLyHeThong.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\frmQuanLyHeThong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:46:44.209Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
