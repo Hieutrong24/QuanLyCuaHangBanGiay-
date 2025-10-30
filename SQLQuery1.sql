@@ -1,0 +1,8 @@
+﻿INSERT INTO KhachHangThanThiet (MaKH, NgayThamGia, TongDiem, HangThanhVien, NgayCapNhat, TrangThai, SDT)
+VALUES
+(193476238472018432, '2023-06-15', 1200, 'Golden', '2025-10-01', 1, '0905123456'),
+(193476238472018433, '2024-01-20', 600, 'Silver', '2025-09-12', 1, '0912345678'),
+(193476238472018434, '2024-05-05', 250, 'Member', '2025-10-10', 1, '0987123456');
+
+
+

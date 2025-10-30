@@ -1,0 +1,16 @@
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\bin\Debug\Snowflake.Net.dll
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\obj\Debug\DTO_QL_BanGiay.csproj.AssemblyReference.cache
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\obj\Debug\DTO_QL_BanGiay.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\obj\Debug\DTO_QL_B.8E0C0EC5.Up2Date
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\obj\Debug\DTO_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\obj\Debug\DTO_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\bin\Debug\Snowflake.Net.dll
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\obj\Debug\DTO_QL_BanGiay.csproj.AssemblyReference.cache
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\obj\Debug\DTO_QL_BanGiay.csproj.CoreCompileInputs.cache
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\obj\Debug\DTO_QL_B.8E0C0EC5.Up2Date
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\obj\Debug\DTO_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DTO_QL_BanGiay\obj\Debug\DTO_QL_BanGiay.pdb
