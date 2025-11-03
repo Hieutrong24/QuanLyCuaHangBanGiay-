@@ -1,0 +1,62 @@
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\Snowflake.Net.dll
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.AssemblyReference.cache
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_B.EF0411AD.Up2Date
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.dll
+D:\WorkSpace\WindowForm\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\Snowflake.Net.dll
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.AssemblyReference.cache
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.CoreCompileInputs.cache
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_B.EF0411AD.Up2Date
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.dll
+E:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.pdb
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\Snowflake.Net.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.AssemblyReference.cache
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.CoreCompileInputs.cache
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_B.EF0411AD.Up2Date
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.pdb
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.Video.DirectShow.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.Video.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\Snowflake.Net.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.xml
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.Video.xml
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.Video.DirectShow.xml
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.AssemblyReference.cache
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.CoreCompileInputs.cache
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_B.EF0411AD.Up2Date
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.dll
+D:\file\Đồ án cơ sở ngành\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.pdb
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.dll
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DAL_QL_BanGiay.pdb
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.dll
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.Video.dll
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.dll
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\Snowflake.Net.dll
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\DTO_QL_BanGiay.pdb
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.xml
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.Video.xml
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.AssemblyReference.cache
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.csproj.CoreCompileInputs.cache
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_B.EF0411AD.Up2Date
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.dll
+C:\Users\khoa\Desktop\sua\QuanLyCuaHangBanGiay--main1\QuanLyCuaHangBanGiay--main\DAL_QL_BanGiay\obj\Debug\DAL_QL_BanGiay.pdb

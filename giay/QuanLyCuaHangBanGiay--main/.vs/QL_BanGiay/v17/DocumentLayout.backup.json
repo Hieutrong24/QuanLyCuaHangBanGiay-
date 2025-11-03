@@ -1,0 +1,1562 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\qlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\qlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dal_ql_bangiay\\giaydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\giaydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\bus_ql_bangiay\\giaybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\giaybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\qlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\qlykho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dto_ql_bangiay\\giaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\giaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\bus_ql_bangiay\\loaibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\loaibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\themgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\themgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\dal_ql_bangiay\\loaidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\loaidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\themgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\themgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\ql_bangiay\\suagiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\suagiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\ql_bangiay\\suagiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\suagiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\dal_ql_bangiay\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dto_ql_bangiay\\loaidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\loaidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\dal_ql_bangiay\\xuatxudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\xuatxudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\bus_ql_bangiay\\xuatxubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\xuatxubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dto_ql_bangiay\\xuatxudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\xuatxudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\dto_ql_bangiay\\thuonghieudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\thuonghieudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\dal_ql_bangiay\\thuonghieudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\thuonghieudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\bus_ql_bangiay\\thuonghieubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\thuonghieubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\dto_ql_bangiay\\mausacdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\mausacdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\dto_ql_bangiay\\luongnhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\luongnhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|c:\\users\\khoa\\desktop\\sua\\quanlycuahangbangiay--main1\\quanlycuahangbangiay--main\\bus_ql_bangiay\\mausacbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\mausacbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\qlykho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\qlykho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\bus_ql_bangiay\\phieunhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\phieunhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dal_ql_bangiay\\chitietphieunhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\chitietphieunhapdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\bus_ql_bangiay\\chitietphieunhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\chitietphieunhapbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dto_ql_bangiay\\chitietphieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\chitietphieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dal_ql_bangiay\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dto_ql_bangiay\\phieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\phieunhapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\banhangcuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\banhangcuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmqrscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmqrscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\banhangcuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\banhangcuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmqrscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmqrscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmqrscan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmqrscan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QL_BanGiay||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\dangkykh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\dangkykh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\bus_ql_bangiay\\doanhthubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\doanhthubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\bus_ql_bangiay\\cthoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\cthoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\bus_ql_bangiay\\chitietkmbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\chitietkmbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\bus_ql_bangiay\\baocaobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\baocaobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmqlhdnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmqlhdnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmqlhdnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmqlhdnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmketoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmtylebh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmtylebh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmthenhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmthenhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\banhangcuanhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\banhangcuanhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dal_ql_bangiay\\cthoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\cthoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dal_ql_bangiay\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmchitietnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmchitietnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\cardgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\cardgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\cardgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\cardgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\bus_ql_bangiay\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\hoadonbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\bus_ql_bangiay\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD0FB03-7947-46DC-B25F-0D83299BBEF5}|BUS_QL_BanGiay\\BUS_QL_BanGiay.csproj|solutionrelative:bus_ql_bangiay\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\themsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\themsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dal_ql_bangiay\\thongkedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\thongkedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmquanlysanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dal_ql_bangiay\\logdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1608BC2-0753-4002-A829-9C08A913FAE6}|DAL_QL_BanGiay\\DAL_QL_BanGiay.csproj|solutionrelative:dal_ql_bangiay\\logdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmquanlyhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmquanlyhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\ucbaocaokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\ucbaocaokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\dto_ql_bangiay\\cthoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE21026A-2796-4B8D-85C9-FCABA04FD39E}|DTO_QL_BanGiay\\DTO_QL_BanGiay.csproj|solutionrelative:dto_ql_bangiay\\cthoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\quanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmquanlyhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmquanlyhethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\drmapduungkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\drmapduungkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmapdungkmgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmapdungkmgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmbaocaonhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmbaocaonhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmbaocaotheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmbaocaotheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmbaocaotheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmbaocaotheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmcapnhatnhomquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmcapnhatnhomquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmbaocaotheodoi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmbaocaotheodoi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmungluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmungluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\ucbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\ucbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\ucbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\ucbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\uchieusuatnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\uchieusuatnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\uchieusuatnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\uchieusuatnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmtinhluong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmtinhluong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmtylebh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmtylebh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\ucbaocaonhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\ucbaocaonhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\ucbaocaotonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\ucbaocaotonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\uchsbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\uchsbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\uchsbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\uchsbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\uchsbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\uchsbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmchuongtrinhkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmchuongtrinhkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\ql_bangiay\\frmdanhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7044EBB0-6FAD-435F-8583-B00F632C60EF}|QL_BanGiay\\QL_BanGiay.csproj|solutionrelative:ql_bangiay\\frmdanhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 207,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "themgiay.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\themgiay.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\themgiay.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\themgiay.cs",
+              "RelativeToolTip": "QL_BanGiay\\themgiay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:21:55.759Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLYKho.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QLYKho.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\QLYKho.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QLYKho.cs",
+              "RelativeToolTip": "QL_BanGiay\\QLYKho.cs",
+              "ViewState": "AgIAAGYCAAAAAAAAAADwv3oCAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:03:13.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "themgiay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\themgiay.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\themgiay.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\themgiay.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\themgiay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:21:15.893Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLYKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QLYKho.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\QLYKho.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QLYKho.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\QLYKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:12:50.302Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "suagiay.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\suagiay.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\suagiay.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\suagiay.cs",
+              "RelativeToolTip": "QL_BanGiay\\suagiay.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:59:55.737Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "suagiay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\suagiay.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\suagiay.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\suagiay.cs [Design]",
+              "RelativeToolTip": "QL_BanGiay\\suagiay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:03:17.154Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChiTietPhieuNhapDTO.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\ChiTietPhieuNhapDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\ChiTietPhieuNhapDTO.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\ChiTietPhieuNhapDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\ChiTietPhieuNhapDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:19:20.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "XuatXuDTO.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\XuatXuDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\XuatXuDTO.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\XuatXuDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\XuatXuDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:31:51.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\LoaiBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\LoaiBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\LoaiBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\LoaiBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:16:49.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiayBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\GiayBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\GiayBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\GiayBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\GiayBUS.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwLoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:15:26.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiayDAL.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\GiayDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\GiayDAL.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\GiayDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\GiayDAL.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAADwv9EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:47:22.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiayDTO.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\GiayDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\GiayDTO.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\GiayDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\GiayDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:31:36.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoaiDAL.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\LoaiDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\LoaiDAL.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\LoaiDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\LoaiDAL.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAUwJUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:42:19.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\DataProvider.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\DataProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:57:06.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChiTietPhieuNhapBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\ChiTietPhieuNhapBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\ChiTietPhieuNhapBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\ChiTietPhieuNhapBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\ChiTietPhieuNhapBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:19:33.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MauSacBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\MauSacBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\MauSacBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\MauSacBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\MauSacBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:18:49.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThuongHieuBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\ThuongHieuBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\ThuongHieuBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\ThuongHieuBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\ThuongHieuBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:57:43.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoaiDTO.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\LoaiDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\LoaiDTO.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\LoaiDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\LoaiDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:16:52.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ThuongHieuDTO.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\ThuongHieuDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\ThuongHieuDTO.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\ThuongHieuDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\ThuongHieuDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:59:01.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XuatXuBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\XuatXuBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\XuatXuBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\XuatXuBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\XuatXuBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:51:16.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XuatXuDAL.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\XuatXuDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\XuatXuDAL.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\XuatXuDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\XuatXuDAL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:51:38.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ThuongHieuDAL.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\ThuongHieuDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\ThuongHieuDAL.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\ThuongHieuDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\ThuongHieuDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:58:45.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LuongNhanVienDTO.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\LuongNhanVienDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\LuongNhanVienDTO.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\LuongNhanVienDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\LuongNhanVienDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:22:18.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MauSacDTO.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\MauSacDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\MauSacDTO.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\MauSacDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\MauSacDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T04:22:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PhieuNhapBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\PhieuNhapBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\PhieuNhapBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\PhieuNhapBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\PhieuNhapBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:20:21.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QLYKho.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QLYKho.Designer.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\QLYKho.Designer.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QLYKho.Designer.cs",
+              "RelativeToolTip": "QL_BanGiay\\QLYKho.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:03:06.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PhieuNhapDTO.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\PhieuNhapDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\PhieuNhapDTO.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\PhieuNhapDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\PhieuNhapDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:19:57.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChiTietPhieuNhapDAL.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\ChiTietPhieuNhapDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\ChiTietPhieuNhapDAL.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\ChiTietPhieuNhapDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\ChiTietPhieuNhapDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T05:36:10.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\Program.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\Program.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\Program.cs",
+              "RelativeToolTip": "QL_BanGiay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:54:42.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\DBConnect.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\DBConnect.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:50:29.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BanHangCuaNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\BanHangCuaNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\BanHangCuaNhanVien.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\BanHangCuaNhanVien.cs",
+              "RelativeToolTip": "QL_BanGiay\\BanHangCuaNhanVien.cs",
+              "ViewState": "AgIAAMsCAAAAAAAAAAAAAOUCAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:48:55.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmQRscan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQRscan.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQRscan.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQRscan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T04:09:47.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmQRscan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQRscan.Designer.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQRscan.Designer.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQRscan.Designer.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmQRscan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T04:11:37.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DangKyKH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\DangKyKH.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\DangKyKH.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\DangKyKH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T04:09:31.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QL_BanGiay",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QL_BanGiay.csproj",
+              "RelativeDocumentMoniker": "QL_BanGiay\\QL_BanGiay.csproj",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QL_BanGiay.csproj",
+              "RelativeToolTip": "QL_BanGiay\\QL_BanGiay.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-29T19:37:44.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BanHangCuaNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\BanHangCuaNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\BanHangCuaNhanVien.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\BanHangCuaNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:48:22.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaoCaoBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\BaoCaoBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\BaoCaoBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\BaoCaoBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\BaoCaoBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:02:00.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmQRscan.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQRscan.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQRscan.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQRscan.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmQRscan.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwF4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T04:09:22.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ChiTietKMBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\ChiTietKMBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\ChiTietKMBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\ChiTietKMBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\ChiTietKMBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:02:01.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DoanhThuBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\DoanhThuBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\DoanhThuBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\DoanhThuBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\DoanhThuBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T02:02:09.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmQLhdNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQLhdNV.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQLhdNV.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQLhdNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:11:49.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CTHoaDonBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\CTHoaDonBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\CTHoaDonBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\CTHoaDonBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\CTHoaDonBUS.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:11:42.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmTyLeBH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTyLeBH.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmTyLeBH.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTyLeBH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:37:31.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GiaoDien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\GiaoDien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\GiaoDien.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\GiaoDien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:47:45.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GiaoDien.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\GiaoDien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\GiaoDien.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\GiaoDien.cs",
+              "RelativeToolTip": "QL_BanGiay\\GiaoDien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:47:47.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmKeToan.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmKeToan.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmKeToan.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmKeToan.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmKeToan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:33:41.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmQLhdNV.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQLhdNV.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQLhdNV.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQLhdNV.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmQLhdNV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:15:05.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmTheNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTheNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmTheNhanVien.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTheNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:37:45.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmKeToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmKeToan.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmKeToan.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmKeToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:36:44.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmTinhLuong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTinhLuong.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmTinhLuong.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTinhLuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:17:13.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\HoaDon.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\HoaDon.cs",
+              "RelativeToolTip": "QL_BanGiay\\HoaDon.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA+wCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:38:56.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\HoaDon.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\HoaDon.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:12:50.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BanHangCuaNhanVien.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\BanHangCuaNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\BanHangCuaNhanVien.Designer.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\BanHangCuaNhanVien.Designer.cs",
+              "RelativeToolTip": "QL_BanGiay\\BanHangCuaNhanVien.Designer.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAiwPIBAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:54:21.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CTHoaDonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\CTHoaDonDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\CTHoaDonDAL.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\CTHoaDonDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\CTHoaDonDAL.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:51:14.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HoaDonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\HoaDonDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\HoaDonDAL.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\HoaDonDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\HoaDonDAL.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAcwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:58:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmChiTietNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmChiTietNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmChiTietNhanVien.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmChiTietNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:39:16.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CardGiay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\CardGiay.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\CardGiay.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\CardGiay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:04:45.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CardGiay.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\CardGiay.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\CardGiay.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\CardGiay.cs",
+              "RelativeToolTip": "QL_BanGiay\\CardGiay.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADgv3UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:05:19.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HoaDonBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\HoaDonBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\HoaDonBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\HoaDonBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\HoaDonBUS.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:57:57.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ThongKe.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ThongKe.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ThongKe.cs",
+              "RelativeToolTip": "QL_BanGiay\\ThongKe.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:57:24.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ThongKe.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ThongKe.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:58:39.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "KhachHangBUS.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\KhachHangBUS.cs",
+              "RelativeDocumentMoniker": "BUS_QL_BanGiay\\KhachHangBUS.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\BUS_QL_BanGiay\\KhachHangBUS.cs",
+              "RelativeToolTip": "BUS_QL_BanGiay\\KhachHangBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:17:31.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ThemSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ThemSanPham.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ThemSanPham.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ThemSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:58:41.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ThongKeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\ThongKeDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\ThongKeDAL.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\ThongKeDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\ThongKeDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:15:36.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmQuanLySanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQuanLySanPham.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQuanLySanPham.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQuanLySanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:37:53.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "frmQuanLySanPham.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQuanLySanPham.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQuanLySanPham.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQuanLySanPham.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmQuanLySanPham.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAqwK8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:38:01.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ucBaoCaoKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucBaoCaoKhachHang.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ucBaoCaoKhachHang.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucBaoCaoKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:58:24.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmQuanLyHeThong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQuanLyHeThong.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQuanLyHeThong.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQuanLyHeThong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:21:54.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "LogDAL.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\LogDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QL_BanGiay\\LogDAL.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DAL_QL_BanGiay\\LogDAL.cs",
+              "RelativeToolTip": "DAL_QL_BanGiay\\LogDAL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:52:48.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "QuanLyHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\QuanLyHoaDon.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QuanLyHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:37:17.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CTHoaDonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\CTHoaDonDTO.cs",
+              "RelativeDocumentMoniker": "DTO_QL_BanGiay\\CTHoaDonDTO.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\DTO_QL_BanGiay\\CTHoaDonDTO.cs",
+              "RelativeToolTip": "DTO_QL_BanGiay\\CTHoaDonDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:15:45.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "QuanLyHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QuanLyHoaDon.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\QuanLyHoaDon.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\QuanLyHoaDon.cs",
+              "RelativeToolTip": "QL_BanGiay\\QuanLyHoaDon.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:10:16.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ucBaoCaoTonKho.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucBaoCaoTonKho.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ucBaoCaoTonKho.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucBaoCaoTonKho.cs",
+              "RelativeToolTip": "QL_BanGiay\\ucBaoCaoTonKho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T03:01:15.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmDangNhap.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmDangNhap.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAvwEkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:48:06.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ucBaoCaoNhanSu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucBaoCaoNhanSu.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ucBaoCaoNhanSu.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucBaoCaoNhanSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:58:43.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmDangNhap.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:38:05.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmQuanLyHeThong.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQuanLyHeThong.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmQuanLyHeThong.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmQuanLyHeThong.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmQuanLyHeThong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:33:40.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ucHieuSuatNV.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucHieuSuatNV.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ucHieuSuatNV.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucHieuSuatNV.cs",
+              "RelativeToolTip": "QL_BanGiay\\ucHieuSuatNV.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T03:06:49.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ucHSBanHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucHSBanHang.Designer.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ucHSBanHang.Designer.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucHSBanHang.Designer.cs",
+              "RelativeToolTip": "QL_BanGiay\\ucHSBanHang.Designer.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAIAwwMoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T03:37:53.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ucBaoCaoTonKho.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucBaoCaoTonKho.Designer.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ucBaoCaoTonKho.Designer.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucBaoCaoTonKho.Designer.cs",
+              "RelativeToolTip": "QL_BanGiay\\ucBaoCaoTonKho.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAIAwwGQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T04:15:13.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ucHSBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucHSBanHang.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ucHSBanHang.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucHSBanHang.cs",
+              "RelativeToolTip": "QL_BanGiay\\ucHSBanHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:56:30.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ucHieuSuatNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucHieuSuatNV.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ucHieuSuatNV.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucHieuSuatNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:52:27.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ucBaoCaoTonKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucBaoCaoTonKho.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ucBaoCaoTonKho.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucBaoCaoTonKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:47:25.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ucHSBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucHSBanHang.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\ucHSBanHang.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\ucHSBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T19:39:04.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "frmBaoCaoTheoDoi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmBaoCaoTheoDoi.Designer.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmBaoCaoTheoDoi.Designer.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmBaoCaoTheoDoi.Designer.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmBaoCaoTheoDoi.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:53:36.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "frmBaoCaoTheoDoi.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmBaoCaoTheoDoi.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmBaoCaoTheoDoi.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmBaoCaoTheoDoi.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmBaoCaoTheoDoi.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:53:30.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmBaoCaoNhanSu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmBaoCaoNhanSu.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmBaoCaoNhanSu.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmBaoCaoNhanSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:50:52.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "frmApDungKMGiay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmApDungKMGiay.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmApDungKMGiay.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmApDungKMGiay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:50:49.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "FormBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\FormBanHang.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\FormBanHang.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\FormBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:50:47.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "drmAPDuungKM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\drmAPDuungKM.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\drmAPDuungKM.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\drmAPDuungKM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:50:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "frmTinhLuong.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTinhLuong.Designer.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmTinhLuong.Designer.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTinhLuong.Designer.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmTinhLuong.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:36:56.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "frmTinhLuong.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTinhLuong.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmTinhLuong.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTinhLuong.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmTinhLuong.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:23:03.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "frmBaoCaoTheoDoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmBaoCaoTheoDoi.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmBaoCaoTheoDoi.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmBaoCaoTheoDoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:39:33.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "frmCapNhatNhomQuyen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmCapNhatNhomQuyen.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmCapNhatNhomQuyen.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmCapNhatNhomQuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:39:32.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "frmChuongTrinhKhuyenMai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmChuongTrinhKhuyenMai.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmChuongTrinhKhuyenMai.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmChuongTrinhKhuyenMai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:38:07.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "frmUngLuong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmUngLuong.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmUngLuong.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmUngLuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:37:46.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "frmThemNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmThemNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmThemNhanVien.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmThemNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:37:43.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "frmTyLeBH.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTyLeBH.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmTyLeBH.cs",
+              "ToolTip": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmTyLeBH.cs",
+              "RelativeToolTip": "QL_BanGiay\\frmTyLeBH.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:37:39.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "frmDanhSachNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khoa\\Desktop\\sua\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmDanhSachNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_BanGiay\\frmDanhSachNhanVien.cs",
+              "ToolTip": "D:\\file\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF ng\u00E0nh\\QuanLyCuaHangBanGiay--main1\\QuanLyCuaHangBanGiay--main\\QL_BanGiay\\frmDanhSachNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:55:00.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
