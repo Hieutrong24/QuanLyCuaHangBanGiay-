@@ -7,17 +7,17 @@ Quản lý Danh mục Sản phẩm:
 
 Tạo Đơn hàng/Hóa đơn:
 - Tìm kiếm sản phẩm nhanh chóng bằng mã vạch hoặc tên sản phẩm.
+<img width="1546" height="1015" alt="image" src="https://github.com/user-attachments/assets/f6b35ef5-f2be-425a-879f-9e37e8f2de22" />
 - Dễ dàng chọn biến thể (size, color) phù hợp khi thêm giày vào hóa đơn.
 - Áp dụng các chính sách khuyến mãi, chiết khấu, và voucher.
-<img width="1546" height="1015" alt="image" src="https://github.com/user-attachments/assets/f6b35ef5-f2be-425a-879f-9e37e8f2de22" />
 <img width="1550" height="850" alt="image" src="https://github.com/user-attachments/assets/224bab57-8dbe-4bbf-9c7a-04a6eb5f3b4b" />
 
 Thanh toán Đa dạng:
 - Hỗ trợ nhiều hình thức thanh toán: Tiền mặt, Thẻ (Visa/Mastercard, ATM), Chuyển khoản, và Thanh toán kết hợp.
+ <img width="657" height="855" alt="image" src="https://github.com/user-attachments/assets/33ad43b6-07ad-4b85-acb8-8f8f7aead667" />
 - Ghi nhận thông tin khách hàng để tích điểm hoặc theo dõi lịch sử mua hàng.
+ <img width="657" height="855" alt="image" src="https://github.com/user-attachments/assets/0c3081d5-b552-47d7-8a1d-6dc4b2b12c82" />
 - In hóa đơn dưới dạng pdf =>> thuận tiện dễ quan sát.
-<img width="657" height="855" alt="image" src="https://github.com/user-attachments/assets/33ad43b6-07ad-4b85-acb8-8f8f7aead667" />
-<img width="657" height="855" alt="image" src="https://github.com/user-attachments/assets/0c3081d5-b552-47d7-8a1d-6dc4b2b12c82" />
 <img width="752" height="777" alt="image" src="https://github.com/user-attachments/assets/a37674f3-8b7e-45e2-9c7c-c80cf2e37a49" />
 
 Xử lý Đổi/Trả hàng:
